@@ -5,3 +5,5 @@ var waitingList =
   customerID: "afhaque89", 
   phoneNumber: "979-587-0887"
 }]
+
+module.exports = waitingList;

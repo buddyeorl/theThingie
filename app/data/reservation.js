@@ -5,3 +5,5 @@ var reservations =
   customerID: "afhaque89", 
   phoneNumber: "979-587-0887"
 }]
+
+module.exports = reservations;
